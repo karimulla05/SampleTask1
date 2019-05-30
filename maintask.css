@@ -1,0 +1,29 @@
+.card{
+  background-color: #AED6F1;
+  width:20%;
+  text-align: center;
+  border-radius: 15px;
+}
+#sub1{
+   width:96%;
+   margin: auto;
+   /* background-color: green; */
+}
+
+.sub2{
+   width:95%;
+   margin: auto;
+   /* background-color:red; */
+
+   }
+   img
+   {
+     width: 100%;
+   }
+
+    .maindiv{
+       background: #A5F06D;
+       width: 100%;
+       display: flex;
+
+   }
